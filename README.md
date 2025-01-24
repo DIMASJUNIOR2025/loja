@@ -1,2 +1,1 @@
-# loja
-python
+# Engenheiro de Software 
